@@ -37,9 +37,9 @@ sudo docker exec -it netdata cat /var/log/netdata/error.log
 
 ## 📸 Screenshot
 
-![Netdata Dashboard] (Screenshot 2025-08-24 105111.png)
+![Netdata Dashboard](Screenshot 2025-08-24 105111.png)
 
-![Netdata Dashboard] (
+![Netdata Metrics](Screenshot 2025-08-24 105242.png)
 
 
 
