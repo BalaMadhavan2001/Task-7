@@ -35,3 +35,6 @@ Netdata logs are available at:
 sudo docker exec -it netdata ls /var/log/netdata
 sudo docker exec -it netdata cat /var/log/netdata/error.log
 
+## 📸 Screenshot
+
+![Netdata Dashboard]()
